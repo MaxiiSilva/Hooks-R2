@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  input[type="number"] {
+    width: 100px;
+    padding: 5px;
+    font-size: 1em;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 1em;
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,43 @@
+/* GaleriaImagenes.css */
+
+.contenedor-galeria {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #f8f8f8;
+  }
+  
+  .imagen-galeria {
+    width: 100%;
+    height: auto;
+  }
+  
+  .navegacion {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+  }
+  
+  .boton-navegacion {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .boton-navegacion:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  

@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  

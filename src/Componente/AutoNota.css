@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  textarea {
+    font-size: 1em;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
